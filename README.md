@@ -24,7 +24,3 @@ Built with SvelteKit (Svelte 5) and Tailwind v4.
 
 - **find emails** reads only public commit metadata. Ranking reflects handle/email similarity, not confirmed ownership; surfaced addresses may belong to co-authors.
 - **find account** returns only public profile data and is attributable to the operator's own rate-limited account. Anyone can opt out by enabling *Keep my email addresses private* at <https://github.com/settings/emails>.
-
----
-
-Tooling by [NotAlex](https://github.com/NotAlex-Tooling/).
